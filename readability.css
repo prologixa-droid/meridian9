@@ -1,0 +1,36 @@
+body{font-size:14px;line-height:1.5;color:#25332c}
+.nav-item,.project-link{font-size:13px;min-height:40px}
+.nav-label{font-size:10px;letter-spacing:.9px}
+.workspace b,.profile b{font-size:13px}
+.workspace small,.profile small,.help-card small{font-size:11px}
+.breadcrumb{font-size:12px}
+.today{font-size:10px}
+.eyebrow{font-size:10px;letter-spacing:1px}
+.subhead{font-size:13px;line-height:1.55}
+.welcome-row h1,.work-title h1{font-size:29px;line-height:1.2}
+.stat-top{font-size:10px}.stat-foot{font-size:10px}.stat-value{font-size:27px}
+.section-heading h2,.panel-heading h2{font-size:17px}.section-heading p,.panel-heading p{font-size:11px}
+.module-card h3,.next-card h3{font-size:15px}.module-card>p,.next-card>p{font-size:11px;line-height:1.55}.module-meta{font-size:10px}
+.activity-copy b{font-size:11px}.activity-copy small,.activity-row time{font-size:10px}.activity-score{font-size:10px}
+.text-button{font-size:11px}
+.queue-summary{font-size:11px;margin-bottom:15px}.queue-summary b{font-size:12px}
+.queue-rail-head b{font-size:12px}.queue-rail-head small{font-size:10px}
+.queue-filters button{font-size:9px;padding:7px 8px}
+.queue-item{height:61px;gap:9px;padding:7px 10px}.queue-item img{width:42px;height:46px}.queue-item-copy b{font-size:10px;line-height:1.3}.queue-item-copy small{font-size:9px;margin-top:4px}.queue-status{font-size:10px}
+.queue-rail-foot{font-size:9px}.queue-rail-foot button{font-size:9px}
+.stage-top{font-size:9px}.stage-caption,.stage-caption>span{font-size:10px;line-height:1.4}
+.detail-label{font-size:8px;letter-spacing:.55px}.item-details>div>span:last-child,.item-details>div>b{font-size:10px;line-height:1.35}
+.workflow-steps{font-size:10px;line-height:1.3;padding:11px 7px}.workflow-steps i{width:19px;height:19px;font-size:10px}
+.panel-step{font-size:9px}.proposal-confidence{font-size:9px}.label-panel h2{font-size:17px}.label-panel>p{font-size:10px;line-height:1.55}
+.suggested-label small{font-size:8px}.suggested-label b{font-size:10px}.suggested-score{font-size:10px}
+.label-option{padding:9px;min-height:47px}.option-icon{width:30px;height:30px}.label-option b{font-size:10px}.label-option small{font-size:9px;line-height:1.35}
+.confidence-label{font-size:9px}.confidence-options button{font-size:9px;height:29px}.taxonomy-select label{font-size:9px}.taxonomy-select select{font-size:10px;height:35px}
+.panel-actions .button{height:38px;font-size:10px}.quality-note b{font-size:10px}.quality-note small{font-size:9px;line-height:1.5}
+.ticket-prompt span,.ticket-prompt button{font-size:9px}
+.ticket-metrics>div>span{font-size:8px}.ticket-metrics>div>b{font-size:18px}.ticket-filter-tabs button{font-size:10px}
+.ticket-list-head b{font-size:12px}.ticket-list-head span{font-size:9px}.ticket-row{min-height:74px}.ticket-row-copy b{font-size:10px;line-height:1.35}.ticket-row-copy small{font-size:9px}.ticket-row-state,.ticket-state,.ticket-priority-label{font-size:8px}
+.ticket-detail-panel{line-height:1.5}.ticket-id-line{font-size:9px}.ticket-detail-head h2{font-size:20px;line-height:1.3}.ticket-detail-head p{font-size:10px}.ticket-detail-head .button{font-size:10px}.ticket-context>div span,.ticket-description>span,.ticket-activity h3{font-size:8px}.ticket-context>div b{font-size:10px}.ticket-context>button{font-size:9px}.ticket-description p{font-size:11px;line-height:1.65}.ticket-activity>div{font-size:9px}.ticket-resolution-note{font-size:9px;line-height:1.6}
+.test-row b{font-size:10px}.test-row small{font-size:9px}.status-pill{font-size:9px}.table-head{font-size:8px}.console-header p{font-size:10px}.test-hint b{font-size:11px}.test-hint p{font-size:10px;line-height:1.5}
+.ticket-form-label{font-size:9px}.modal select,.modal textarea{font-size:10px}.modal p,.modal li{font-size:12px;line-height:1.65}
+.workflow-steps [data-step]{color:#818d86;display:flex;align-items:center;gap:5px}.workflow-steps [data-step].workflow-current{color:#356e49;font-weight:700}.workflow-steps [data-step].workflow-done{color:#648b6d}.workflow-steps [data-step].workflow-done i{background:#e5f2e8;color:#48835a}.workflow-steps [data-step].workflow-current i{background:#287348;color:#fff}.step-connector{color:#b3bcb6;font-size:14px}
+@media(max-width:760px){body{font-size:13px}.welcome-row h1,.work-title h1{font-size:25px}.queue-item-copy b{font-size:10px}.queue-item-copy small{font-size:9px}.stage-caption,.stage-caption>span{font-size:9px}.workflow-steps{justify-content:flex-start;gap:7px;flex-wrap:wrap;font-size:9px}.workflow-steps [data-step]{min-width:30%;}.ticket-row-copy b{font-size:10px}.ticket-detail-head h2{font-size:18px}}
